@@ -1,5 +1,8 @@
-a="priynshu"
-
-# print(type(z))
-# print(z)
-# # print(z[3])
+a="priyanshu"
+# l=list(a)
+# print(l)
+# l[5] = 'k'
+# a= ''.join(l)
+# print(a)
+a = a[:5] + "k" + a[6:]
+print (a)
