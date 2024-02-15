@@ -10,4 +10,4 @@ elif o==2:
 elif o==3:
     print(hex(n)[2:],"hexadecimal")#Convert to hexadecimal  form
 else:
-    print("select right choice")    
+    print("select right choice :")    
