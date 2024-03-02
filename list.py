@@ -8,3 +8,8 @@ print(a.count(2))
 # x=['1','2','3']
 # y=x[1]+x[2]
 # print(y)
+
+b=123
+c=563454
+print(b>c)
+
