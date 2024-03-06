@@ -10,7 +10,10 @@ t=a**l,b**l,c**l
 # p = int(''.join(map(str, t)))
 # print(p)
 # print(n)
+print (t)
 s=str(sum(t))
+print (s)
+
 print(type(s))
 print(type(n))
 
