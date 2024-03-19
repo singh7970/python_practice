@@ -17,9 +17,9 @@
 # print(s[::-1])
 
 
-s="sky is blue"
-r=" ".join(reversed(s.split()))
-print(r)
+# s="sky is blue"
+# r=" ".join(reversed(s.split()))
+# print(r)
 
 # l = ['hello', 'my name is']
 # l.reverse()
