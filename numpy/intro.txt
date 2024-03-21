@@ -1,5 +1,0 @@
-1-NumPy is a Python library.
-
-2-NumPy is used for working with arrays.
-
-3-NumPy is short for "Numerical Python".
