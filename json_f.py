@@ -13,3 +13,6 @@ import json
 # y=json.dumps(x)
 # print(y)
 # print(type(y))
+
+# n this JSON context, "load" typically refers to reading JSON 
+# from a file, while "loads" refers to parsing JSON from a string.
