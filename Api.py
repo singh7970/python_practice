@@ -1,3 +1,4 @@
 import requests
-responce=requests.get('https://random-data-api.com/api/v2/users')
-print(responce.json())
+url=('https://random-data-api.com/api/v2/users')
+data =requests.get(url)
+print(data.json())
